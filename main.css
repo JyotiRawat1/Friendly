@@ -17,7 +17,7 @@ footer{
 }
 
 #header{
-
+height: 30px;
 background-color: #4267b2;
 
 }
@@ -25,26 +25,108 @@ background-color: #4267b2;
 #header .white-text{
 
   color: white;
- font-size: 23px;
+ font-size: 20px;
 }
+
 
 .panel-title{
   color: blue;
 }
 
-.img-responsive{
+#main .glyphicon{
+  color: black;
+  font-size: 16px;
+}
 
+.img-responsive{
   padding: 10px 2px 10px 2px ;
 }
 
 #like{
-  margin-left: 80%;
+  margin-left: 70%;
 }
 
 .bmargin{
 margin: 5px 5px 5px 5px;
 
+
 }
+.panale-body .glyphicon{
+  margin-left: 10px;
+     margin-right: 4px;
+
+}
+
+.image-post img{
+  height: 260px;
+}
+
+.image-id img{
+  height: 600px;
+}
+
+.image-radhe img{
+  height: 500px;
+}
+
+#main .badge{
+text-align: right;
+}
+#main{
+  overflow: auto;
+}
+
+.nav-stacked .badge
+{
+  background: none;
+  color: gray;
+}
+#header .badge{
+background: red;
+position: absolute;
+margin-top: -7px;
+margin-left: -8px;
+}
+
+#header .glyphicon{
+  position: relative;
+}
+
+.comment {
+  margin: 0;
+}
+
+#main .update{
+  color: gray;
+  margin-left: 10px;
+}
+
+#main .create{
+
+  color: black;
+}
+
+
+#main .glyphicon-picture{
+  color: green;
+}
+
+.small{
+  color: gray;
+}
+
+.media-body
+{
+border-bottom: 1px solid gray;}
+
+
+#sidebar{
+  overflow: auto;
+}
+
+  .navbar .form-group{
+    width: 500px;
+  }
 
 /*.navbar-default .navbar-brand{
 color: white;*
