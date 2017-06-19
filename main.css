@@ -127,6 +127,9 @@ border-bottom: 1px solid gray;}
   .navbar .form-group{
     width: 500px;
   }
+.tab-pane{
+  color: blue;
+};
 
 /*.navbar-default .navbar-brand{
 color: white;*
