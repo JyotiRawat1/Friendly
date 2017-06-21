@@ -5,6 +5,7 @@ footer{
   margin-top: 16px;
 }
 
+
 #wrapper{
 
   margin bottom: 16px;
@@ -17,8 +18,9 @@ footer{
 }
 
 #header{
-height: 30px;
+height: 20px;
 background-color: #4267b2;
+  padding-top: 2px;
 
 }
 
@@ -130,6 +132,8 @@ border-bottom: 1px solid gray;}
 .tab-pane{
   color: blue;
 };
+
+
 
 /*.navbar-default .navbar-brand{
 color: white;*
