@@ -18,7 +18,7 @@ footer{
 }
 
 #header{
-height: 20px;
+height: 15px;
 background-color: #4267b2;
   padding-top: 2px;
 
@@ -56,6 +56,11 @@ background-color: #4267b2;
 margin: 5px 5px 5px 5px;
 
 
+}
+
+#header .image-i{
+margin-top: 8px;
+margin-right: -8px;
 }
 .panale-body .glyphicon{
   margin-left: 10px;
